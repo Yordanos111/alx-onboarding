@@ -1,0 +1,9 @@
+START
+    INPUT=num
+
+    DO WHILE num>0
+        INPUT=num
+    END loop
+    sum= sumation of num
+    PRINT sum 
+END
