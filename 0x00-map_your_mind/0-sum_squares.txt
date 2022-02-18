@@ -1,0 +1,8 @@
+START
+    INPUT= num1
+    INPUT= num2
+    square1= num1 x num1
+    square2= num2 x num 2
+    sum= square1 + square2
+    PRINT sum
+END
